@@ -36,7 +36,7 @@
 		};
 	li: layer_tap_intr {
 			compatible = "zmk,behavior-hold-tap";
-			label = "LAYER_TAP_OSL";
+			label = "LAYER_TAP_INTR";
 			#binding-cells = <2>;
 			flavor = "tap-unless-interrupted";
 			tapping_term_ms = <200>;
