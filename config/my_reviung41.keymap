@@ -94,6 +94,7 @@
 
         COMBO(nums,  &tog 6, LM2  LM1)
         COMBO(loadNew,  &bootloader, LH1 LH0 RH0 RH1)
+        COMBO(superPaste, &kp LC(LS(V)), LH1 LB5 LB1)
     };
 
 
